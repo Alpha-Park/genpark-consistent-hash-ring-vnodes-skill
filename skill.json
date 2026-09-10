@@ -1,0 +1,15 @@
+{
+  "name": "genpark-consistent-hash-ring-vnodes-skill",
+  "version": "1.0.0",
+  "description": "Dynamo-style consistent hash ring with virtual nodes (vnodes) and binary search bisecting for balanced partition key allocation.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "consistent-hashing",
+    "vnodes",
+    "dynamo",
+    "distributed-cache"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
